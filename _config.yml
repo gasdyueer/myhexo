@@ -6,6 +6,7 @@ author: gasdyueer
 language: zh
 timezone: Asia/Shanghai
 url: https://gasdyueer.github.io/myhexo
+root: /myhexo/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
