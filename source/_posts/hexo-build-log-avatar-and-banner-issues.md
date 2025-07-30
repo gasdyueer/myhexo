@@ -6,7 +6,7 @@ tags:
   - Debug
   - GitHub Pages
   - Troubleshooting
-cover: https://gasdyueer.github.io/myhexo/_media/hexo-build-log-avatar-and-banner-issues.png
+cover: https://raw.githubusercontent.com/gasdyueer/myhexo/refs/heads/gh-pages/2025/07/30/hexo-build-log-avatar-and-banner-issues/hexo-build-log-avatar-and-banner-issues.png
 ---
 
 今天在配置我的新Hexo博客时，连续遇到了两个与图片路径相关的棘手问题，分别涉及作者头像（Avatar）和首页横幅（Banner）。这两个问题都与将博客部署到GitHub Pages的子目录（`https://gasdyueer.github.io/myhexo/`）有关。这篇文章详细记录了我解决这两个问题的完整过程，希望能给遇到类似情况的朋友提供一个完整的排错思路。
