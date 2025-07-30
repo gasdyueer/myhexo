@@ -6,15 +6,15 @@ menu:
   关于: /about
 
 # 主页banner图
-banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
+banner: source\flexblock_config\banner.png
 
 # 站点通知信息
 notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
 
 # 作者信息
 author:
-  name: Sukoshi
-  avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
+  name: gasdyueer
+  avatar: .\source\flexblock_config\avatar.png
   description: 贵在坚持
 
 toc:
@@ -103,5 +103,5 @@ social_icon:
     ins     :
     zhihu   :
     weibo   : 
-    github  : https://github.com/miiiku/
-    twitter : https://twitter.com/guanquanhong
+    github  : https://github.com/gasdyueer
+    twitter : https://x.com/gasdyueer
