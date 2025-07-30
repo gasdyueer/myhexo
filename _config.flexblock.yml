@@ -6,7 +6,7 @@ menu:
   关于: /about
 
 # 主页banner图
-banner: /images/banner.png
+banner: /myhexo/images/banner.png
 
 # 站点通知信息
 notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
@@ -14,7 +14,7 @@ notice: flex-block主题部分重构，详情查看https://github.com/miiiku/fle
 # 作者信息
 author:
   name: gasdyueer
-  avatar: /images/avatar.png
+  avatar: /myhexo/images/avatar.png
   description: 贵在坚持
 
 toc:
