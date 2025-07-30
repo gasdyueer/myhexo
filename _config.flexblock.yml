@@ -14,7 +14,7 @@ notice: flex-block主题部分重构，详情查看https://github.com/miiiku/fle
 # 作者信息
 author:
   name: gasdyueer
-  avatar: /theme_imgs/avatar.png
+  avatar: /myhexo/theme_imgs/avatar.png
   description: 贵在坚持
 
 toc:
